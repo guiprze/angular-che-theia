@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "ms-vscode.js-debug",
+    "vscjava.vscode-maven",
+    "eamodio.gitlens"
+  ]
+}
